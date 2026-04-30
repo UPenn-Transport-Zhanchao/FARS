@@ -1,0 +1,2 @@
+# Track DuckDB database files with Git LFS
+*.duckdb filter=lfs diff=lfs merge=lfs -text
